@@ -1,7 +1,7 @@
-""
+
 Unified Trading Signal System v3.1
 Crypto + US Equities engines with Quality Gate and Telegram alerts.
-"""
+
 
 import os
 import time
